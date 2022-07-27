@@ -1,6 +1,8 @@
 
-const HelloWorld = () => {
+
+
+const Hello = () => {
     return (
-        <div> hello </div>
+        <div> </div>
     )
 }
